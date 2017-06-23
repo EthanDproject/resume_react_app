@@ -1,0 +1,117 @@
+{
+	"name": "Ethan J. Damitier",
+	"image": "https://udemy-images.udemy.com/user/200_H/20713642_c235_5.jpg",
+	"email": "peacefulconsciousforall@gmail.com",
+	"phone": "857-247-0700",
+	"github": "github.com/ethanDProject",
+	"website": "excelatemarketing.com",
+	"twitter": "@EthanD",
+	"twitterURL": "https://twitter.com/EthanD",
+	"experiences" : [
+		{
+			"title" : "Software engineer",
+			"period": "2015 - Present",
+			"company": "Excelate Marketing, Boston",
+			"companyURL": "excelatemarketing.com",
+			"details": "fullstack-software developer and website with SEO focus"
+		},
+		{
+			"title" : "Freelance Fullstack Software Engineer",
+			"period": "2014 - 2015",
+			"company": ", London",
+			"companyURL": "https://cryptic-dawn-79812.herokuapp.com/",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+	"projects": [
+		{
+			"name":"HappyCampsite",
+			"url": "https://cryptic-dawn-79812.herokuapp.com/",
+			"detail": "A fullstack responsive website designed for a startup to help campers market and sell their products and share theirs experiences."
+		},
+		{
+			"name":"BaBySmart application",
+			"url": "http://peaceful-cliffs-70366.herokuapp.com",
+			"detail": "A responsive React application designed to help children learn the alpbhabet with audio option included."
+		},
+		{
+			"name":" A blog from scratch",
+			"url": "http://excelatemarketing",
+			"detail": "A responsive blog created with javascript, mongoDb, node.js designed to help bloggers promote, market and sell their products."
+		},
+		{
+			"name":" A React resume",
+			"url": "http://heroku.com",
+			"detail": "A responsive React resume website designed to help startups promote and market skills and developer experience."
+		},
+		{
+			"name":"excelate",
+			"url": "http://excelatemarketing,com",
+			"detail": "A responsive website template designed to help dentist market  their services to patients."
+		} 
+	],
+	"skills": [
+		{
+			"name": "javascript, Bootstrap, Semantic UI & nodejs",
+			"percent": "100%"
+		},
+		{
+			"name": "React,Ruby MongoDB & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "Python,Angular",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5, Bootstrap, Semantic UI & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Ruby on Rails",
+			"percent": "70%"
+		},
+		{
+			"name": "Wordpress & SEO",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Bachelors'degree",
+			"university": "University of Massachussetts",
+			"period": "2006 - 2011"
+		},
+		{
+			"degree": "Professional ",
+			"university": "Harvard continuing Ed",
+			"period": "20013 - Present"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"French",
+			"details": "Professional"
+		},
+		{
+			"name":"Spanish",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Traveling",
+		"Reading",
+		"gym",
+		"Coding"
+	]
+}
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+{
+	"name": "Ethan J. Damitier",
+	"image": "https://udemy-images.udemy.com/user/200_H/20713642_c235_5.jpg",
+	"email": "ethandamitier@gmail.com",
+	"phone": "857-247-0700",
+	"github": "github.com/ethanDProject",
+	"website": "excelatemarketing.com",
+	"twitter": "@EthanD",
+	"twitterURL": "https://twitter.com/EthanD",
+	"experiences" : [
+	{
+		"title" : " Lead Software Engineer",
+		"period": "2015 - Present",
+		"company": "Excelate Marketing, Boston",
+		"companyURL": "excelatemarketing.com",
+		"details": [
+		"Designed and create unique websites. Developed application to help dental marketing.",
+		"Create content and assist with maintaince of client website.",
+		"Leading role in the development of software infrastructure including building back-end systems to manage accounts and maintain online regular events.",
+		"Develop UI and back-end logic to enhance user experience.",
+		"Create and maintain website using WordPress and other platforms as needed.",
+		"Supported other developer as mentor and subject matter expert in managing escalated issues.",
+		"Routinely worked with Tier 3 agents and engineers to troubleshoot and resolve emerging issues.",
+		"Perform comparative research to determine the cause of issues and identify areas needing improvement."
+		]
+		},
+		{
+			"title" : "Freelance Project",
+			"period": "2014 - 2015",
+			"company": " freelance ",
+			"companyURL": "https://cryptic-dawn-79812.herokuapp.com/",
+			"details": ["Contribute to the development and continuous enhancement of the UI and back-side framework",
+			"Design and implement a React children game that support learning and enhanced parents educational strategy.",
+			"Assisted with debugging and website optimization",
+			"Assisted in third-party partners as well as internal engineers in developing and customizing software."
+			]
+		}
+		],
+		"projects": [
+		{
+			"name":"Happycampers",
+			"url": "https://happy-campers-start-up.herokuapp.com/",
+			"detail": " Designed and developed Happycampers. A fullstack unique website designed to help customers market and sell their products and share theirs experiences."
+			},
+			{
+				"name":"BaBySmart",
+				"url": "http://peaceful-cliffs-70366.herokuapp.com",
+				"detail": "A unique React educational application with a audio options designed to help parents teach their their children how to read, write and pronouce word."
+				},
+				{
+					"name":"A Blog App",
+					"url": "http://104.236.199.130:8001",
+					"detail": "A responsive blog created with javascript, mongoDb, node.js designed to help bloggers promote, market and sell their products."
+					},
+					{
+						"name":"Resume Web App made with REACT",
+						"url": "http://104.236.199.130:8003",
+						"detail": "This resume is created with React designed to help promote and market skills and developer experiences."
+						},
+						{
+							"name":"Techno-logic Start up App",
+							"url": "http://104.236.199.130:8000",
+							"detail": "A unique online store created with Angular designed to sell online template to tech and online professionals."
+							},
+							{
+								"name":" WordPress Website",
+								"url": "http://excelatemarketing.com",
+								"detail": "Wordpress website created for a dental marketing company for patients acquisitions and online marketing ."
+								},
+								{
+									"name":"Game App created with REACT",
+									"url": "http://104.236.199.130:8002",
+									"detail": " This is an app created with React.  It is design to keep player score while playing games."
+								},
+	{
+									"name":"A Website for a company",
+									"url": "http://104.236.199.130:8004",
+									"detail": "Created with Angular."
+								} 
+
+
+								],
+								"skills": [
+								{
+									"name": "javascript, Bootstrap, Semantic UI & nodejs",
+									"percent": "100%"
+									},
+									{
+										"name": "React,Ruby MongoDB & jQuery",
+										"percent": "90%"
+										},
+										{
+											"name": "Python,Angular",
+											"percent": "80%"
+											},
+											{
+												"name": "HTML5, Bootstrap, Semantic UI & CSS",
+												"percent": "99%"
+												},
+												{
+													"name": "Ruby on Rails",
+													"percent": "70%"
+													},
+													{
+														"name": "Wordpress & SEO",
+														"percent": "85%"
+													}
+													],
+													"education": [
+													{
+														"degree": "Bachelors' degree",
+														"university": "University of Massachussetts Boston",
+														"period": "2004 - 2011"
+														},
+														{
+															"degree": "Professional ",
+															"university": "Harvard continuing Ed",
+															"period": "20013 - Present"
+														}
+														],
+														"languages": [
+														{
+															"name": "English",
+															"details": " Fluent"
+															},
+															{
+																"name": "French",
+																"details": " Fluent"
+																},
+																{
+																	"name": "Spanish",
+																	"details": " Professional"
+																	},
+																	{
+																		"name": "Portuguese",
+																		"details": " Professional"
+																		},
+																		{
+																			"name": "ASL",
+																			"details": " Professional"
+																		}
+																		],
+																		"interests": [
+																		"Traveling",
+																		"Reading",
+																		"Exercising",
+																		"Coding"
+																		]
+																	}
+
+
+
+
+
+
